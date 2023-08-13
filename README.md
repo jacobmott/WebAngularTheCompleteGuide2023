@@ -56,7 +56,7 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec2TheBasics24.png)
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec2TheBasics25.png)
 
-# Started Section: Section 3 Cource Project - The Basic
+## Started Section: Section 3 Cource Project - The Basic
 
 
 
