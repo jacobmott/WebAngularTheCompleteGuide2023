@@ -1,0 +1,13 @@
+<button
+  class="btn btn-primary"
+  (click)="buttonClicked()">Display Details</button>
+
+<p *ngIf="buttonEnabled">Peek a boo!</p>
+
+<div *ngFor="let click of buttonClicks"
+[ngStyle]="{backgroundColor: getBackgroundColor(click)}"
+[ngClass]="{white: greaterOrEqualToFifthItem(click)}">
+{{ click }}
+</div>
+
+
