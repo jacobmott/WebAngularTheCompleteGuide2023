@@ -78,7 +78,22 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec3CourseProject-TheBasics18.gif)
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec3CourseProject-TheBasics18.png)
 
-## Started Section: Section 4 Debugging
+
+## Section 4 Debugging
+
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec4Debugging1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec4Debugging2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec4Debugging3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec4Debugging4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec4Debugging5.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec4Debugging6.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec4Debugging7.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec4Debugging8.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec4Debugging9.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec1GettingStarted11.gif)
+
+## Started Section: Section 5 Components & Databinding Deep Dive
 
 
 
