@@ -127,10 +127,30 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec5Components&DatabindingDeepDive26.png)
 
 
-## Started Section: Section 6 Course Project - Components & Databinding
+## Section 6 Course Project - Components & Databinding
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding5.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding6.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding7.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding8.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding9.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding10.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding11.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding12.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding13.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding14.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding15.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding16.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding17.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding18.gif)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding18.png)
 
 
-
+## Started Section: Section 7: Directives Deep Dive
 
 
 
