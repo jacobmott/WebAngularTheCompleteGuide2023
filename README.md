@@ -150,7 +150,37 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec6CourseProjectComponents&Databinding18.png)
 
 
-## Started Section: Section 7: Directives Deep Dive
+## Section 7: Directives Deep Dive
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive4.gif)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive5.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive6.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive7.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive8.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive9.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive10.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive11.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive12.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive13.gif)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive13.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive14.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive15.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec7DirectivesDeepDive16.png)
+
+## Section 8: Course Project - Directives
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec8CourseProjectDirectives1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec8CourseProjectDirectives2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec8CourseProjectDirectives3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec8CourseProjectDirectives4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec8CourseProjectDirectives5.gif)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec8CourseProjectDirectives5.png)
+
+## Started Section: Section 9: Using Services & Dependency Injection
 
 
 
