@@ -180,7 +180,14 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec8CourseProjectDirectives5.gif)
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec8CourseProjectDirectives5.png)
 
-## Started Section: Section 9: Using Services & Dependency Injection
+## Section 9: Using Services & Dependency Injection
+
+
+
+
+
+
+## Started Section: Section 10: Cource Project - Services & Dependency Injection
 
 
 
