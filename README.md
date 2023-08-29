@@ -183,8 +183,22 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/
 ## Section 9: Using Services & Dependency Injection
 
 
-
-
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection4.gif)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection5.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection6.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection7.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection8.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection9.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection10.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection11.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection12.gif)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection12.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection13.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection14.png)
 
 
 ## Started Section: Section 10: Cource Project - Services & Dependency Injection
