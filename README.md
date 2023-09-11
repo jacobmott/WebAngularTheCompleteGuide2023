@@ -201,7 +201,7 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec9UsingServicesAndDependencyInjection14.png)
 
 
-## Section: Section 10: Cource Project - Services & Dependency Injection
+## Section 10: Cource Project - Services & Dependency Injection
 
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec10CourseProjectServices&DependencyInjection1.png)
 ![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec10CourseProjectServices&DependencyInjection2.png)
@@ -215,7 +215,32 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/
 
 
 
-## Started Section: Section 11: Changing Pages with Routing
+## Section 11: Changing Pages with Routing
+
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting1.gif)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting3.gif)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting5.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting6.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting7.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting8.gif)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting8.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec11ChangingPagesWithRouting9.gif)
+
+
+### Youtube vid
+
+https://youtu.be/B3LimsixzQA
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/B3LimsixzQA/0.jpg)](https://www.youtube.com/watch?v=B3LimsixzQA)
+
+
+
+## Started Section: Section 12: Course Project - Routing
 
 
 
