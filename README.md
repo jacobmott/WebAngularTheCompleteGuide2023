@@ -239,13 +239,35 @@ https://youtu.be/B3LimsixzQA
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/B3LimsixzQA/0.jpg)](https://www.youtube.com/watch?v=B3LimsixzQA)
 
 
-
-## Started Section: Section 12: Course Project - Routing
-
+## Section 12: Course Project - Routing
 
 
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec12CourseProjectRouting1.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec12CourseProjectRouting2.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec12CourseProjectRouting3.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec12CourseProjectRouting4.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec12CourseProjectRouting5.gif
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec12CourseProjectRouting5.png
+
+## Section 13:Understanding Observables
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec13UnderstandingObservables1.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec13UnderstandingObservables2.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec13UnderstandingObservables3.png
+
+## Section 14: Course Project - Observables
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec14CourseProjectObservables1.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec14CourseProjectObservables2.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec14CourseProjectObservables3.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec14CourseProjectObservables4.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec14CourseProjectObservables5.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec14CourseProjectObservables6.png
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec14CourseProjectObservables7.gif
+![image](https://media.githubusercontent.com/media/jacobmott/WebAngularTheCompleteGuide2023/main/Screenshots/Sec14CourseProjectObservables7.png
 
 
+## Started Section: Section 15: Handling Forms in Angular Apps
 
 
 
