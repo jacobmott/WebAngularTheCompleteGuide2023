@@ -268,6 +268,29 @@ https://youtu.be/B3LimsixzQA
 
 
 ## Started Section: Section 15: Handling Forms in Angular Apps
+TODO
 
 
+
+## AWS S3 Screenshots And videos folders (Syncing/Pull/Push to)
+
+<details>
+The Screenshots for this github folder is stored in s3 bucket
+  
+Pull down from bucket
+  
+```
+  aws s3 cp --recursive s3://<bucket>/WebAngularTheCompleteGuide2023/Screenshots WebAngularTheCompleteGuide2023/Screenshots    
+```
+
+Push to bucket
+```
+  aws s3 cp --recursive WebAngularTheCompleteGuide2023/Screenshots s3://<bucket>/WebAngularTheCompleteGuide2023/Screenshots
+```
+
+Or just do a sync
+```
+  aws s3 sync WebAngularTheCompleteGuide2023/Screenshots s3://<bucket>/WebAngularTheCompleteGuide2023/Screenshots --delete
+
+```
 
